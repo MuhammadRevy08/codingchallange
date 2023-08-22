@@ -18,7 +18,7 @@ print()
 
 ################
 
-def BmiUdin():
+def Bmi():
 	# Data Udin
 	Bb_Udin = 78
 	Tb_Udin = 1.69
@@ -60,4 +60,4 @@ def BmiUdin():
 	else:
 		print("BMI mereka tinggi nya sama rata !")
 
-BmiUdin()
+Bmi()
